@@ -1,0 +1,2 @@
+# BioinfoTask
+K-mer algorithm
